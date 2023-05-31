@@ -1,0 +1,1 @@
+# Sentimental-analysis-using-text-in-the-image-information-but-not-normal-text
